@@ -1,6 +1,6 @@
 ## Language Used for Solutions
 
-| Problem # | Language |
+| Problem # | Language(s) |
 | ------------- | ------------- |
 | 1  | Python |
 | 2  | Python |
