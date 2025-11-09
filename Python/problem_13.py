@@ -106,6 +106,6 @@ def sum_func():
     list = numbers.split()
     for i in range(0, len(list)):
         sum += int(list[i])
-    return sum
+    return int(str(sum)[:10])
 
 print(sum_func())
