@@ -8,7 +8,7 @@
 | 4  | Python |
 | 5  | C++ |
 | 6  | Python |
-| 7  | Python |
+| 7  | C++ |
 | 8  | Python |
 | 9  | Python |
 | 10 | Python |
