@@ -12,7 +12,7 @@
 | 8  | Python |
 | 9  | Python |
 | 10 | Python |
-| 12 | Python |
+| 12 | C++ |
 | 13 | Python |
 | 14 | Python |
 | 15 | Python |
