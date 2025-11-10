@@ -1,10 +1,10 @@
 ## Language Used for Solutions
 
-| # | Language(s) | # | Language(s) |
-| ------------- | ------------- | ------------- | ------------- |
-| 1  | Python | 45 | C++ |
-| 2  | Python | 52 | Python, C++ |
-| 3  | Python |
+| # | Language(s) | | # | Language(s) |
+| ------------- | ------------- |------------- | ------------- | ------------- |
+| 1  | Python || 39 | C++ |
+| 2  | Python || 45 | Python |
+| 3  | Python || 52 | Python, C++ |
 | 4  | Python |
 | 5  | C++ |
 | 6  | Python |
@@ -19,6 +19,6 @@
 | 16 | Python |
 | 18 | Python |
 | 20 | Python |
+| 24 | Python |
 | 25 | C++ |
 | 29 | C++ |
-| 39 | C++ |
