@@ -3,7 +3,7 @@
 | # | Language(s) | # | Language(s) |
 | ------------- | ------------- | ------------- | ------------- |
 | 1  | Python | 45 | C++ |
-| 2  | Python | 52 | C++ |
+| 2  | Python | 52 | Python, C++ |
 | 3  | Python |
 | 4  | Python |
 | 5  | C++ |
