@@ -2,10 +2,10 @@
 
 | # | Language(s) | | # | Language(s) |
 | ------------- | ------------- |------------- | ------------- | ------------- |
-| 1  | Python || 39 | C++ |
-| 2  | Python || 45 | Python |
-| 3  | Python || 52 | Python, C++ |
-| 4  | Python |
+| 1  | Python || 29 | C++ |
+| 2  | Python || 39 | C++ |
+| 3  | Python || 45 | Python |
+| 4  | Python || 52 | Python, C++ |
 | 5  | C++ |
 | 6  | Python |
 | 7  | C++ |
@@ -19,6 +19,6 @@
 | 16 | Python |
 | 18 | Python |
 | 20 | Python |
+| 21 | C++ |
 | 24 | Python |
 | 25 | C++ |
-| 29 | C++ |
